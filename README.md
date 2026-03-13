@@ -1,7 +1,7 @@
 # Projet MLOPS 2026
 
 ## Groupe G14 — Fine-tuning DistilBERT | Régularisation & Généralisation
-
+## Auteurs:SOME KPIBARGNIN,AMBASSA Samuel lumière,CHOUTA Laeticia Murielle
 | Paramètre | Valeur |
 |---|---|
 | **Dataset** | D07 — Emotion Detection (6 classes, 20k exemples) |
@@ -26,7 +26,8 @@ projet_G14/
     ├── baseline.py           ← Étape 2 : entraînement baseline sans régularisation 
     ├── optimization.py       ← Étape 3 : grid search Optuna weight_decay × dropout 
     ├── loss_landscape.py     ← Étape 4 : analyse du loss landscape 1D 
-    └── visualization.py      ← Étape 5 : visualisations et comparaison finale 
+    └── visualization.py      ← Étape 5 : visualisations et comparaison finale
+    └── dashboard_G14.py
 ```
 
 ---
